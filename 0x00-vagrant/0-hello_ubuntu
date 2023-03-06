@@ -1,1 +1,1 @@
-"it will output the kernel name followed by other information such as the kernel version, the processor type, and the operating system name." 
+Linux my-ubuntu-vm 5.13.0-30-generic #33-Ubuntu SMP Mon Nov 15 14:41:28 UTC 2021 x86_64 x86_64 x86_64 GNU/Linux
